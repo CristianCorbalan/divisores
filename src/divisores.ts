@@ -9,6 +9,7 @@ function esMultiplo(dividendo: number, divisor: number): boolean{
   }else{
     return false;
   }
+}
   function cantDeDivisores(numeroAgregado: number): number {
     let cantidad: number = 0;
     let divisores: number;
