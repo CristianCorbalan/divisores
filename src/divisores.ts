@@ -24,4 +24,4 @@ function esMultiplo(dividendo: number, divisor: number): boolean{
 
 
  let numeroAgregado: number=Number(prompt("Poner numero"));
-  console.log ("El numero"+numeroAgregado+"cuenta con"+ cantDeDivisores(numeroAgregado)+"de divisores");
+  console.log (" El numero "+ numeroAgregado + " cuenta con " + cantDeDivisores(numeroAgregado) +" de divisores ");
